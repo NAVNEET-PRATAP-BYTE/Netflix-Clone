@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/github/license/NAVNEET-PRATAP-BYTE/Netflix-Clone?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="60%" />
-</p>
+
 
 ---
 
